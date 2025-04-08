@@ -1,0 +1,1 @@
+The figure is made using Google Earth. To do this, we need to import shapefiles of the census tracts and their respective centroids, for which I suggest a program like QGIS. Subsequently, the routes can be calculated in QGIS. Finally, the legend is made in Inkscape
